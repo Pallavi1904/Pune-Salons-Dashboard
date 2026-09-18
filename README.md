@@ -43,7 +43,7 @@ The dashboard is designed to make salon-related information easier to understand
 
 ### Dashboard 1
 
-![Pune Salons Dashboard 1](Images/dashboard1.png)
+![Pune Salons Dashboard 1](Images/ss1.png)
 
 ### Dashboard 2
 
