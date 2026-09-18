@@ -39,14 +39,23 @@ The dashboard is designed to make salon-related information easier to understand
 * **Data Visualization** – Charts, cards, maps and interactive visuals
 
 ---
-
 ## 📊 Dashboard Preview
 
-### Dashboard
+### Dashboard 1
 
-![Pune Salons Dashboard](Images/dashboard.png)
+![Pune Salons Dashboard 1](Images/dashboard1.png)
 
-> **Note:** Update `Images/dashboard.png` with the exact filename of your dashboard screenshot if it is different.
+### Dashboard 2
+
+![Pune Salons Dashboard 2](Images/dashboard2.png)
+
+### Dashboard 3
+
+![Pune Salons Dashboard 3](Images/dashboard3.png)
+
+### Dashboard 4
+
+![Pune Salons Dashboard 4](Images/dashboard4.png)
 
 ---
 
