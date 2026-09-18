@@ -47,15 +47,15 @@ The dashboard is designed to make salon-related information easier to understand
 
 ### Dashboard 2
 
-![Pune Salons Dashboard 2](Images/dashboard2.png)
+![Pune Salons Dashboard 2](Images/ss2.png)
 
 ### Dashboard 3
 
-![Pune Salons Dashboard 3](Images/dashboard3.png)
+![Pune Salons Dashboard 3](Images/ss3.png)
 
 ### Dashboard 4
 
-![Pune Salons Dashboard 4](Images/dashboard4.png)
+![Pune Salons Dashboard 4](Images/ss4.png)
 
 ---
 
