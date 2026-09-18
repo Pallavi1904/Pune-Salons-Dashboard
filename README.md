@@ -42,18 +42,22 @@ The dashboard is designed to make salon-related information easier to understand
 ## 📊 Dashboard Preview
 
 ### Dashboard 1
+Original Dashboard:
 
 ![Pune Salons Dashboard 1](Images/ss1.png)
 
 ### Dashboard 2
+Dashboard with customised area choosed:
 
 ![Pune Salons Dashboard 2](Images/ss2.png)
 
 ### Dashboard 3
+Dashboard with customised services choosed:
 
 ![Pune Salons Dashboard 3](Images/ss3.png)
 
 ### Dashboard 4
+Dashboard with both customised area and services choosed:
 
 ![Pune Salons Dashboard 4](Images/ss4.png)
 
