@@ -169,7 +169,7 @@ git clone https://github.com/Pallavi1904/Pune-Salons-Dashboard.git
 ### 2. Open the Project
 
 Navigate to the downloaded project folder.
-
+ 
 ### 3. Open the Power BI File
 
 Open the `.pbix` file from the **PowerBI File** folder using **Microsoft Power BI Desktop**.
